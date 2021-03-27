@@ -1,0 +1,19 @@
+{
+  "name": "profilefiller",
+  "version": "1.0.0",
+  "description": "Automatic filling Steam profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/Gunthersuper/",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "colors": "^1.4.0",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "steam-totp": "^2.1.1",
+    "steamcommunity": "^3.42.0"
+  }
+}
